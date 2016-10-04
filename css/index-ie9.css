@@ -1,0 +1,38 @@
+.container .nav,.header>span,.header-h1,.header-h2,.header-h3,.section1>div,.section2 p.content,.section3>div,.footer .left,.footer .right,.header .icon-reorder{
+    opacity: 1;
+}
+.header .icon-reorder{
+    text-align: center;
+}
+.header .ie8{
+    display: none;
+    height: 205px;
+    list-style: none;
+    background: #333;
+    margin-top: 10px;
+    z-index: 2;
+    position: fixed;
+    left:0;
+    opacity: .9;
+}
+.header .ie8 li{
+    opacity:1;
+    width: 100%;
+}
+.header .ie8 li a{
+    opacity:1;
+    color:#fff;
+    display: block;
+    padding: 10px 0;
+}
+.header .ie8 li:hover{
+    background:#eee ;
+}
+.header .ie8 li:hover a{
+    opacity:1;
+    color:#f1c40f;
+}
+.footer .right .email{
+    height:40px;
+    padding-top: 0;
+}
