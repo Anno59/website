@@ -223,7 +223,7 @@
     animation-fill-mode:forwards;
     animation-duration:1s;
     animation-timing-function:ease-in-out;
-    animation-delay: 2.75s;
+    animation-delay: 1.5s;
 }
 /*section2动画-开始*/
 @keyframes ani-section2-h2p {
