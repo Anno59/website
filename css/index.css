@@ -23,9 +23,6 @@
     background-size: cover;
     background-position: 50% 50%;
     background-image: url("../images/ba2.jpg");
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(
-            src='../images/ba2.jpg',
-            sizingMethod='scale');
     position: absolute;
     z-index: 0;
     transition: .2s all linear;
@@ -191,9 +188,6 @@
     height: 500px;
     width: 100%;
     background-image: url("../images/index-sec2.jpg");
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(
-            src='file:///C:/wamp/www/website/images/index-sec2.jpg',
-            sizingMethod='scale');
     background-size: cover;
     overflow: hidden;
     padding-top:5%;
