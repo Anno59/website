@@ -24,7 +24,7 @@
     background-position: 50% 50%;
     background-image: url("../images/ba2.jpg");
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(
-            src='file:///C:/wamp/www/website/images/ba2.jpg',
+            src='https://github.com/Anno59/website/tree/master/images/ba2.jpg',
             sizingMethod='scale');
     position: absolute;
     z-index: 0;
