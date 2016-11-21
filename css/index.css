@@ -338,6 +338,9 @@
         display: block;
         z-index:10;
     }
+    .header .min-navtag .selected{
+        color:#f1c40f;
+    }
     .header .icon-reorder{
         color:#f1c40f;
         cursor: pointer;
