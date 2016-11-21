@@ -4,6 +4,9 @@
     font-family: "Microsoft YaHei", yaHei;
     text-decoration: none;
 }
+html,body{
+    overflow:auto;
+}
 .gotop{
     color: #f1c40f;
     font-size: 50px;
